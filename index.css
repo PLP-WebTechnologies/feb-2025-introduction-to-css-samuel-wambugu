@@ -1,0 +1,117 @@
+body{
+      background-color:aquamarine;
+      padding: 0;
+      margin: 0;
+}
+#divh1{
+      background-color: aqua;
+      /* position: fixed; */
+      align-items: center;
+      display: flex;
+      text-align: center;
+      justify-content: center;
+}
+#divh3{
+      align-items: center;
+      display: flex;
+      text-align: center;
+      justify-content: center;
+}
+#div1{
+      align-items: center;
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      margin-top: 0;
+}
+ol{
+      padding-top: 0%;
+}
+#container{
+      background-color: aqua;
+      width: 500px;
+      margin-left: 450px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+      border-radius: 15px;
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.container2{
+      display: flex;
+      padding: 20px;
+}
+#div3{
+      background-color: aqua;
+      display: flex;
+      width: 550px;
+      justify-content: center;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      margin-left: 50px;
+      border-radius: 20px;
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+table{
+      border-collapse: collapse;
+}
+th{
+      border: 1px solid black; 
+      padding: 10px;
+      background-color: rgb(161, 161, 248);
+}
+td{
+      padding: 8px;
+}
+#div4{
+      background-color: aqua;
+      display: flex;
+      width: 550px;
+      justify-content: center;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      margin-left: 50px;
+      border-radius: 20px;
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+#name{
+      margin-bottom: 10px;
+      display: flex;
+      flex-direction: column;
+}
+#email{
+      margin-bottom: 10px;
+      display: flex;
+      flex-direction: column;
+}
+#dob{
+      margin-bottom: 10px;
+      display: flex;
+      flex-direction: column;
+}
+#password{
+      margin-bottom: 10px;
+      display: flex;
+      flex-direction: column;
+}
+#hobby{
+      margin-bottom: 10px;
+      display: flex;
+      flex-direction: column;
+}
+#gender{
+      margin-bottom: 10px;
+}
+#button{
+      margin-bottom: 10px;
+      display: flex;
+      flex-direction: column;
+}
+#button1{
+      background-color: blue;
+      height: 30px;
+      width: 70px;
+      border-radius: 10px;
+      border: none;
+}
